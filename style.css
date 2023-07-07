@@ -30,3 +30,26 @@
 .itms:hover{
     color:red;
 }
+.Banner-container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-around;
+}
+.photo{
+    width:500px;
+}
+.ilit{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.para{
+    font-size: 22px;
+    margin: 20px 0;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    color:white;
+}
